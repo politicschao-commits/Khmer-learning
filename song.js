@@ -278,7 +278,7 @@ window.KHMER_SONGS = {
       ['ស្រឡាញ់អូនខ្លាំងណាស់', 'sralanh oun khlang nas', '非常非常愛妳。'],
       ['បងលាអូនហើយ', 'bong lea oun haey', '我要向妳告別了。']
     ]
-  },,
+  },
   d345lbismNI: {
     title: 'ប្រាប់ហេតុផលស្នេហ៍ · 告訴我愛情的理由',
     words: [
