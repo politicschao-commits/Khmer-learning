@@ -373,7 +373,7 @@ window.KHMER_SONGS = {
       ['ប្រាប់ហេតុផលស្នេហ៍', 'prap het phol sne', '告訴我愛情的理由。'],
       ['ប្រាប់ហេតុផលស្នេហ៍', 'prap het phol sne', '告訴我愛情的理由。']
     ]
-  }
+  },
   YRvobTqy170: {
     title: 'អូនកុំបែកឆ្វេង · 别误入歧途，我爱的人',
     words: [
